@@ -5,17 +5,10 @@
 * Reactjs && ES6 && webpack构建移动端京东首页
 * 基于文件系统的Node.js服务端
 
-![Mou icon](./jd.png)
 
 ## 安装与运行程序
 
-克隆项目
-
-```
-> $ git clone https://coding.net/u/zhufengpeixun/p/JD-React/git
-```
-
-进入JD-React目录下安装依赖包
+进入Shop-React目录下安装依赖包
 
 ```
 > $ npm install
